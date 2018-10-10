@@ -1,0 +1,1 @@
+# deploy-simple-activitylog-alert-in-resourcegroup
