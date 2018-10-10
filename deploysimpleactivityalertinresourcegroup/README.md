@@ -1,3 +1,3 @@
-# Blank Template
+# ARM Template used for deploying simple Activity alert in new resource group
 
-This is an empty template and parameters file with the schema reference and top-level properties defined.
+
