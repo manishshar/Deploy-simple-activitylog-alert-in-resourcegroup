@@ -4,14 +4,14 @@
   "parameters": {
     "actionGroupName": {
       "type": "string",
-      "defaultValue": "autoscaleActionGroup",
+      "defaultValue": "ActionGroupName",
       "metadata": {
         "description": "Name for the Action group."
       }
     },
     "actionGroupShortName": {
       "type": "string",
-      "defaultValue": "autoscaleAG",
+      "defaultValue": "myag",
       "minLength": 1,
       "maxLength": 12,
       "metadata": {
@@ -26,12 +26,12 @@
     },
     "activityLogAlertName": {
       "type": "string",
-      "defaultValue": "autoscaleAlert",
+      "defaultValue": "firstalert",
       "allowedValues": [
-        "autoscaleAlert",
-        "autoscaleAlert1",
-        "autoscaleAlert2",
-        "autoscaleAlert3"
+        "firstalert",
+        "firstalert1",
+        "firstalert2",
+        "firstalert3"
       ],
       "minLength": 1,
       "metadata": {

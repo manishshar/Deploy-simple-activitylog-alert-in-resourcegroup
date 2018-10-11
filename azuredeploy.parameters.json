@@ -3,10 +3,10 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "emailAddress": {
-      "value": "shman@xyz.com"
+      "value": "shman@microsoft.com"
     },
     "activityLogAlertName": {
-      "value": "autoscaleAlert3"
+      "value": "firstalert"
     }
   }
 }
